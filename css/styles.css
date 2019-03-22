@@ -1,0 +1,127 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'ZCOOL XiaoWei', serif;
+
+}
+
+h1{
+  font-size: 50px;
+  font-family:cursive;
+  width: 30%;
+  margin: 0 auto 0;
+}
+
+.top-container {
+  background-color: #3bb4c1;
+  position: relative;
+  padding-top: 100px;
+
+
+}
+
+.middle-container{
+  background-color: #cdffeb;
+  margin :0;
+}
+
+.profile-pic{
+  width: 200px;
+   height: 200px;
+   border-radius: 100%;
+   margin-top: 25px;
+ }
+
+h2{
+  font-style:'Margarine', cursive;
+  font-size:xx-large;
+   color:#bd245f;
+}
+
+hr{
+  background-color: white;
+  border-style:none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width:5px;
+  width: 80px;
+}
+.code-skills{
+  width:50%;
+  text-align: left;
+  margin:100px auto 100px auto;
+  line-height: 2;
+
+}
+
+.web-img{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  float:right;
+  margin-left: 60px;
+
+
+
+}
+
+.web-text{
+  font-family: 'Margarine', cursive;
+    font-size: 37px;
+    color:#070d59;
+
+
+}
+
+.nature-pic{
+  width:200px;
+  height:200px;
+  border-radius: 50%;
+  float: left;
+  margin-right: 60px;
+}
+
+.nature-text{
+  font-family: 'Margarine', cursive;
+    font-size: 37px;
+    color:#070d59;
+}
+
+
+.top-cloud{
+  position: absolute;
+  left: 250px;
+  top: 50px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  right:300px;
+  bottom: 300px;
+}
+
+.bottom-container{
+  background-color: #13abc4;
+  margin: 30px auto 0 auto;
+}
+
+.ins-icon{
+  width: 50px;
+  height: 50px;
+  padding: 10px;
+}
+.gmail-icon{
+  width:50px;
+  height: 50px;
+  padding: 10px;
+}
+.copyright{
+  padding:15px;
+   margin-bottom: 0px;
+   color: whitesmoke;
+}
+.cont-me{
+  padding-top: 15px;
+    width: 50%;
+    margin: 0 auto 0 auto;
+}
